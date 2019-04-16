@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AsyncTaskDemo</string>
+    <string name="button_name">Start</string>
 </resources>
